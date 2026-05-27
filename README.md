@@ -1,4 +1,4 @@
-# Protohackers implemntation
+# Protohackers Solutions
 
 working on [https://protohackers.com/](https://protohackers.com/)
 
