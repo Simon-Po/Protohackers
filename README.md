@@ -1,6 +1,6 @@
 # Protohackers implemntation
 
-working on https://protohackers.com/result
+working on [https://protohackers.com/](https://protohackers.com/)
 
 you can find the corresponding solutions in there directories
 i submitted by hosting the application on a hetzner machine
