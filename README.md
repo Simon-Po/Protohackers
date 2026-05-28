@@ -10,3 +10,5 @@ done:
   - Just an echo server 
 - [x] https://protohackers.com/problem/1
   - the newlines threw me off a bit other then that it was just about testing
+- [x] https://protohackers.com/problem/3
+  - pretty fun the large numbers threw me off so you had todo some casting but fine
